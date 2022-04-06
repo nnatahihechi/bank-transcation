@@ -1,0 +1,21 @@
+[{
+        "accountNo": 3899641355,
+        "balance": 3000,
+        "createdAt": "2022-04-05T16:18:19.641Z"
+    },
+    {
+        "accountNo": 3973988506,
+        "balance": 4000,
+        "createdAt": "2022-04-05T16:19:22.128Z"
+    },
+    {
+        "accountNo": 3738378090,
+        "balance": 2000,
+        "createdAt": "2022-04-05T16:19:54.156Z"
+    },
+    {
+        "accountNo": 3203712113,
+        "balance": 1000,
+        "createdAt": "2022-04-05T16:21:26.884Z"
+    }
+]
